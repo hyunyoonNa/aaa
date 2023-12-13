@@ -10,11 +10,5 @@ public class controller {
 	public String hello() {
 		
 		return "hello";
-    
-public class controller {
-	public static void main(String[] args) {
-		System.out.println("hello");
-		
-		System.out.println("안돼");
 	}
 }
