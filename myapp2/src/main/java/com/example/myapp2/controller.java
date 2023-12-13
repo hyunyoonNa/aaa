@@ -10,9 +10,11 @@ public class controller {
 	public String hello() {
 		
 		return "hello";
-    
-public class controller {
-	public static void main(String[] args) {
-		System.out.println("hello");
 	}
+	@GetMapping("hello2")
+	public String hello2() {
+		
+		return "hello2";
+	}
+	
 }
